@@ -217,6 +217,15 @@ body {
     color: #E5E7EB;
     font-size: 16px;
     font-weight: bold;
+
+}
+
+.section4-button:active {
+    background-color: #0e79dd;
+}
+
+.section4-button:hover {
+    cursor: pointer;
 }
 .footer {
     height: 80px;
